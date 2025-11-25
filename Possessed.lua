@@ -1,3 +1,4 @@
+-- Open source because this is clanker made
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 local RunService = game:GetService("RunService")
